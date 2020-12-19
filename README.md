@@ -1,7 +1,7 @@
-# NGHIÊN CỨU KHOA HỌC - RFID and application
+# SCIENTIFIC RESEARCH - RFID and application
 
 ## Information
-The project is services for research science. This's research for RFID/NFC, IoT, ICT,..etc..
+The project is services for scientific research. This's research for RFID/NFC, IoT, ICT,..etc..
 The project supports for personal in my team.
 
 ## Member
